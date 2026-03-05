@@ -48,7 +48,6 @@ I’m **Bilal Afzal**, a **Full Stack Web Developer** from **Pakistan**, focused
 
 ### 🎓 EduSaaS360 — Multi-Institute ERP System
 <img align="right" width="300" src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif"/>
-
 A full SaaS-based ERP system supporting multiple institutes and branches with subscription management and dynamic user roles.
 
 **Key Features**
@@ -64,7 +63,6 @@ A full SaaS-based ERP system supporting multiple institutes and branches with su
 
 ### 📦 Sales Distribution Hub
 <img align="right" width="300" src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif"/>
-
 A system for managing sales operations including distributors, field officers, bookers, stock management, payments, and reporting.
 
 **Key Features**
@@ -80,7 +78,6 @@ A system for managing sales operations including distributors, field officers, b
 
 ### 🍔 Food Delivery Application
 <img align="right" width="300" src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif"/>
-
 A full-stack web application for ordering and managing food delivery services.
 
 **Key Features**
@@ -95,7 +92,6 @@ A full-stack web application for ordering and managing food delivery services.
 
 ### 🛒 GoShop — E-commerce Platform
 <img align="right" width="300" src="https://media.giphy.com/media/3oEjHGrVGrqgFFknfO/giphy.gif"/>
-
 A modern e-commerce platform with product management and authentication.
 
 **Key Features**
@@ -108,24 +104,9 @@ A modern e-commerce platform with product management and authentication.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tools
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
-
-### Backend
-![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
-
-### Tools & Languages
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+Git · GitHub · Postman · VS Code · Terminal
 
 ---
 
@@ -152,8 +133,7 @@ A modern e-commerce platform with product management and authentication.
 ## 🤝 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://linkedin.com/in/bilalkhan03811)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge)](https://medium.com/@bilalkhan03811)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge)](https://www.kaggle.com/bilalkhandev-ux)
+[![Indeed](https://img.shields.io/badge/Indeed-FFB100?style=for-the-badge&logo=indeed)](https://www.indeed.com/m/resume?from=app) 
 
 ---
 
