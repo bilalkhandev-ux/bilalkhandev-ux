@@ -21,10 +21,10 @@ I’m **Bilal Afzal**, a **Full Stack Web Developer** from **Pakistan**, focused
 - **Web Development Intern** — *ScriptExp Private Limited, Wah*
 
 🎯 **Career Focus**
-- Full-stack web applications
-- Clean UI & reusable components
-- Performance & scalability
-- Modern MERN stack architecture
+- Full-stack web applications  
+- Clean UI & reusable components  
+- Performance & scalability  
+- Modern MERN stack architecture  
 
 🤝 **Open for**
 - Full-time / Internship roles  
@@ -36,18 +36,18 @@ I’m **Bilal Afzal**, a **Full Stack Web Developer** from **Pakistan**, focused
 
 ## 💼 What I Do
 
-- 🌐 Frontend development using **React & Tailwind CSS**
-- ⚙️ Backend REST APIs with **Node.js & Express.js**
-- 🧠 MERN stack full-cycle applications
-- 🎨 UI/UX focused development
-- 🚀 Building scalable business systems
+- 🌐 Frontend development using **React & Tailwind CSS**  
+- ⚙️ Backend REST APIs with **Node.js & Express.js**  
+- 🧠 MERN stack full-cycle applications  
+- 🎨 UI/UX focused development  
+- 🚀 Building scalable business systems  
 
 ---
 
 ## 🌟 Featured Projects
 
 ### 🎓 EduSaaS360 — Multi-Institute ERP System
-<img align="right" width="300" src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif"/>
+<img align="right" width="300" src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif"/>
 A full SaaS-based ERP system supporting multiple institutes and branches with subscription management and dynamic user roles.
 
 **Key Features**
@@ -62,7 +62,7 @@ A full SaaS-based ERP system supporting multiple institutes and branches with su
 ---
 
 ### 📦 Sales Distribution Hub
-<img align="right" width="300" src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif"/>
+<img align="right" width="300" src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif"/>
 A system for managing sales operations including distributors, field officers, bookers, stock management, payments, and reporting.
 
 **Key Features**
@@ -91,7 +91,7 @@ A full-stack web application for ordering and managing food delivery services.
 ---
 
 ### 🛒 GoShop — E-commerce Platform
-<img align="right" width="300" src="https://media.giphy.com/media/3oEjHGrVGrqgFFknfO/giphy.gif"/>
+<img align="right" width="300" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif"/>
 A modern e-commerce platform with product management and authentication.
 
 **Key Features**
@@ -132,14 +132,14 @@ Git · GitHub · Postman · VS Code · Terminal
 
 ## 🤝 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://linkedin.com/in/bilalkhan03811)
-[![Indeed](https://img.shields.io/badge/Indeed-FFB100?style=for-the-badge&logo=indeed)](https://www.indeed.com/m/resume?from=app) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://linkedin.com/in/bilalkhan03811)  
+[![Indeed](https://img.shields.io/badge/Indeed-FFB100?style=for-the-badge&logo=indeed)](https://www.indeed.com/m/resume?from=app)  
 
 ---
 
 ## 💭 Dev Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+> “Code is like humor. When you have to explain it, it’s bad. Build solutions that speak for themselves.”
 
 ---
 
