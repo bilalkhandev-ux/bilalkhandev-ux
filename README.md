@@ -126,8 +126,7 @@ Git · GitHub · Postman · VS Code · Terminal
 
 ## 🐍 Contribution Snake
 
-[![Snake animation](https://raw.githubusercontent.com/bilalkhandev-ux/portfolio/main/dist/github-contribution-grid-snake.svg)](https://github.com/bilalkhandev-ux)
-
+[![Snake animation](https://raw.githubusercontent.com/bilalkhandev-ux/bilalkhandev-ux/output/github-contribution-grid-snake.svg)](https://github.com/bilalkhandev-ux)
 ## 🤝 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://linkedin.com/in/bilalkhan03811)  
